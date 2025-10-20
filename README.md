@@ -1,4 +1,4 @@
-# 🧠 Analisis Sentimen Teks Politik — Proyek NLP (Bahasa Indonesia)
+# 🧠 Analisis Sentimen Teks Politik — Proyek NLP 
 
 ## 📋 Ringkasan Proyek
 Proyek ini menganalisis sentimen publik dari teks (misalnya tweet atau postingan media sosial) yang berkaitan dengan isu politik nasional.  
