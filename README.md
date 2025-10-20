@@ -175,7 +175,5 @@ Langkah selanjutnya adalah menggabungkan pendekatan **machine learning tradision
 ---
 
 ## 👨‍💻 Penulis
-**Achmad Rivaldi Zulfah**  
-_Bangkit Machine Learning Path 2025 — Submission Akhir (Analisis Sentimen)_  
-Email: _[isi dengan emailmu]_  
-GitHub: _[username kamu]_
+**Achmad Rivaldi Zulfah**   
+Email: rivaldishoryu11@gmail.com
