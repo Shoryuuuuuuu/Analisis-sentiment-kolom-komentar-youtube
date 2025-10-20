@@ -14,7 +14,7 @@ import csv
 import pandas as pd
 
 # === Konfigurasi ===
-api_key = "AIzaSyC9N-43FdvmfImxrkPcoMPAR2ypayfPZow"
+api_key = "Masukkan API Key Google Cloud"
 youtube = build('youtube', 'v3', developerKey=api_key)
 
 def get_video_comments(video_id, max_comments):
